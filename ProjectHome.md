@@ -1,0 +1,1 @@
+The goal is to produce an ordered NSOutlineView which is populated through bindings and Core Data. The outlineView must support drag and drop and copy and paste.
